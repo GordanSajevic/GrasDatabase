@@ -1,0 +1,14 @@
+drop table Vozila;
+drop table Linije;
+drop table Smjene;
+drop table Vozaci;
+drop view VozaciVozila;
+drop view TramvajskeLinije;
+drop view AutobuskeLinije;
+drop view TrolejbuskeLinije;
+drop view AutobuskeTrolejbuskeStanice;
+drop view AutobuskeTramvajskeStanice;
+drop view Tramvaj2;
+drop view VozacLinije1I10;
+drop view LinijaOtokaDobrinja;
+drop view StanicaIlidza;

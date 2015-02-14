@@ -1,0 +1,55 @@
+INSERT INTO Vozila values("Autobus", ?);
+INSERT INTO Vozila values("Autobus", ?);
+INSERT INTO Vozila values("Autobus", ?);
+INSERT INTO Vozila values("Autobus", ?);
+INSERT INTO Vozila values("Trolejbus", ?);
+INSERT INTO Vozila values("Trolejbus", ?);
+INSERT INTO Vozila values("Trolejbus", ?);
+INSERT INTO Vozila values("Tramvaj", ?);
+INSERT INTO Vozila values("Tramvaj", ?);
+INSERT INTO Vozila values("Tramvaj", ?);
+
+INSERT INTO Vozaci values("Edib", "Imamovic", 30, 2012, ?);
+INSERT INTO Vozaci values("Jesenko", "Gavric", 26, 2013, ?);
+INSERT INTO Vozaci values("Nedzad", "Hamzic", 26, 2014, ?);
+INSERT INTO Vozaci values("Davor", "Stankovic", 29, 2011, ?);
+INSERT INTO Vozaci values("Nermin", "Graca", 30, ?, ?);
+INSERT INTO Vozaci values("Neldin", "Dzekovic", 23, 2014, ?);
+INSERT INTO Vozaci values("Mustafa", "Ademovic", 22, 2014, ?);
+INSERT INTO Vozaci values("Haris", "Krkalic", 22, 2012, ?);
+INSERT INTO Vozaci values("Vedad", "Zornic", 23, 2013, ?);
+INSERT INTO Vozaci values("Hikmet", "Durgutovic", 32, 2010, ?);
+
+INSERT INTO Linije values("Stup", "Vogosca", "07.45", 40, ?);
+INSERT INTO Linije values("Bascarsija", "Zeljeznicka stanica", "07.30", 20, ?);
+INSERT INTO Linije values("Vijecnica", "Hrasnica", "07.00", 60, ?);
+INSERT INTO Linije values("Bascarsija", "Cengic Vila", "08.10", 25, ?);
+INSERT INTO Linije values("Ilidza", "Hadzici", "07.30", 30, ?);
+INSERT INTO Linije values("Trg Austrije", "Otoka", "09.00", 25, ?);
+INSERT INTO Linije values("Otoka", "Dobrinja", "08.45", 20, ?);
+INSERT INTO Linije values("Nedzarici", "Dobrinja", "08.15", 10, ?);
+INSERT INTO Linije values("Dobrinja", "Jezero", "08.30", 35, ?);
+INSERT INTO Linije values("Skenderija", "Ilidza", "07.05", 50, ?);
+
+
+INSERT INTO Smjene values(7, 4, 1, 1, ?);
+INSERT INTO Smjene values(7, 2, 1, 1, ?);
+INSERT INTO Smjene values(1, 8, 2, 1, ?);
+INSERT INTO Smjene values(1, 10, 2, 1, ?);
+INSERT INTO Smjene values(3, 10, 4, 1, ?);
+INSERT INTO Smjene values(3, 9, 4, 1, ?);
+INSERT INTO Smjene values(2, 2, 3, 1, ?);
+INSERT INTO Smjene values(2, 3, 3, 1, ?);
+INSERT INTO Smjene values(5, 7, 6, 2, ?);
+INSERT INTO Smjene values(5, 5, 6, 2, ?);
+INSERT INTO Smjene values(4, 1, 8, 2, ?);
+INSERT INTO Smjene values(4, 3, 8, 2, ?);
+INSERT INTO Smjene values(10, 3, 5, 2, ?);
+INSERT INTO Smjene values(10, 2, 5, 2, ?);
+INSERT INTO Smjene values(6, 9, 10, 3, ?);
+INSERT INTO Smjene values(6, 10, 10, 3, ?);
+INSERT INTO Smjene values(8, 5, 9, 3, ?);
+INSERT INTO Smjene values(8, 6, 9, 3, ?);
+INSERT INTO Smjene values(9, 6, 7, 3, ?);
+INSERT INTO Smjene values(9, 7, 7, 3, ?);
+INSERT INTO Smjene values(7, 2, 10, 3, ?);

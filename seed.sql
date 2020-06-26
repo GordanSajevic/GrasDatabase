@@ -9,7 +9,7 @@ INSERT INTO Vozila values("Tramvaj", ?);
 INSERT INTO Vozila values("Tramvaj", ?);
 INSERT INTO Vozila values("Tramvaj", ?);
 
-INSERT INTO Vozaci values("Edib", "Imamovic", 30, 2012, ?);
+INSERT INTO Vozaci values("Dibe", "Imamovic", 30, 2012, ?);
 INSERT INTO Vozaci values("Jesenko", "Gavric", 26, 2013, ?);
 INSERT INTO Vozaci values("Nedzad", "Hamzic", 26, 2014, ?);
 INSERT INTO Vozaci values("Davor", "Stankovic", 29, 2011, ?);

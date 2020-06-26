@@ -20,7 +20,7 @@ INSERT INTO Vozaci values("Haris", "Krkalic", 22, 2012, ?);
 INSERT INTO Vozaci values("Vedad", "Zornic", 23, 2013, ?);
 INSERT INTO Vozaci values("Hikmet", "Durgutovic", 32, 2010, ?);
 
-INSERT INTO Linije values("Ilidza", "Vogosca", "07.45", 40, ?);
+INSERT INTO Linije values("Dobrinja", "Vogosca", "07.45", 40, ?);
 INSERT INTO Linije values("Bascarsija", "Zeljeznicka stanica", "07.30", 20, ?);
 INSERT INTO Linije values("Vijecnica", "Hrasnica", "07.00", 60, ?);
 INSERT INTO Linije values("Bascarsija", "Cengic Vila", "08.10", 25, ?);

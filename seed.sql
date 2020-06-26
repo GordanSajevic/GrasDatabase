@@ -1,35 +1,35 @@
-INSERT INTO Vozila values("Autobus", ?);
-INSERT INTO Vozila values("Autobus", ?);
-INSERT INTO Vozila values("Autobus", ?);
-INSERT INTO Vozila values("Autobus", ?);
-INSERT INTO Vozila values("Trolejbus", ?);
-INSERT INTO Vozila values("Trolejbus", ?);
-INSERT INTO Vozila values("Trolejbus", ?);
+INSERT INTO Vozila values("Trolejlbus", ?);
+INSERT INTO Vozila values("Trolejlbus", ?);
+INSERT INTO Vozila values("Trolejlbus", ?);
+INSERT INTO Vozila values("Trolejlbus", ?);
 INSERT INTO Vozila values("Tramvaj", ?);
 INSERT INTO Vozila values("Tramvaj", ?);
 INSERT INTO Vozila values("Tramvaj", ?);
+INSERT INTO Vozila values("Minibus", ?);
+INSERT INTO Vozila values("Minibus", ?);
+INSERT INTO Vozila values("Minibus", ?);
 
-INSERT INTO Vozaci values("Tiba", "Imamovic", 30, 2012, ?);
+INSERT INTO Vozaci values("Nermin", "Imamovic", 30, 2012, ?);
 INSERT INTO Vozaci values("Jesenko", "Gavric", 26, 2013, ?);
 INSERT INTO Vozaci values("Nedzad", "Hamzic", 26, 2014, ?);
-INSERT INTO Vozaci values("Davor", "Stankovic", 29, 2011, ?);
-INSERT INTO Vozaci values("Nermin", "Graca", 30, ?, ?);
+INSERT INTO Vozaci values("Hikmet", "Stankovic", 29, 2011, ?);
+INSERT INTO Vozaci values("Edib", "Graca", 30, ?, ?);
 INSERT INTO Vozaci values("Neldin", "Dzekovic", 23, 2014, ?);
-INSERT INTO Vozaci values("Mustafa", "Ademovic", 22, 2014, ?);
-INSERT INTO Vozaci values("Haris", "Krkalic", 22, 2012, ?);
+INSERT INTO Vozaci values("Haris", "Ademovic", 22, 2014, ?);
+INSERT INTO Vozaci values("Mustafa", "Krkalic", 22, 2012, ?);
 INSERT INTO Vozaci values("Vedad", "Zornic", 23, 2013, ?);
-INSERT INTO Vozaci values("Hikmet", "Durgutovic", 32, 2010, ?);
+INSERT INTO Vozaci values("Davor", "Durgutovic", 32, 2010, ?);
 
-INSERT INTO Linije values("Ilidza", "Vogosca", "07.45", 40, ?);
+INSERT INTO Linije values("Hadzici", "Vogosca", "07.45", 40, ?);
 INSERT INTO Linije values("Vijecnica", "Zeljeznicka stanica", "07.30", 20, ?);
-INSERT INTO Linije values("Bascarsija", "Hrasnica", "07.00", 60, ?);
-INSERT INTO Linije values("Otoka", "Cengic Vila", "08.10", 25, ?);
-INSERT INTO Linije values("Stup", "Hadzici", "07.30", 30, ?);
+INSERT INTO Linije values("Nedzarici", "Hrasnica", "07.00", 60, ?);
+INSERT INTO Linije values("Stup", "Cengic Vila", "08.10", 25, ?);
+INSERT INTO Linije values("Otoka", "Ilidza", "07.30", 30, ?);
 INSERT INTO Linije values("Trg Austrije", "Otoka", "09.00", 25, ?);
-INSERT INTO Linije values("Svrakino", "Dobrinja", "08.45", 20, ?);
-INSERT INTO Linije values("Nedzarici", "Dobrinja", "08.15", 10, ?);
-INSERT INTO Linije values("Dobrinja", "Jezero", "08.30", 35, ?);
-INSERT INTO Linije values("Skenderija", "Ilidza", "07.05", 50, ?);
+INSERT INTO Linije values("Bascarsija", "Dobrinja", "08.45", 20, ?);
+INSERT INTO Linije values("Svrakino", "Dobrinja", "08.15", 10, ?);
+INSERT INTO Linije values("Skenderija", "Jezero", "08.30", 35, ?);
+INSERT INTO Linije values("Dobrinja", "Ilidza", "07.05", 50, ?);
 
 
 INSERT INTO Smjene values(7, 4, 1, 1, ?);
